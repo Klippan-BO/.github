@@ -3,7 +3,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 
 <h2>Audience</h2>
 <li>Experienced hikers</li>
-<li>Beginner</li>
+<li>Beginners</li>
 <li>Parents</li>
 <li>Elderly</li>
 <li>Hike/event planners</li>
