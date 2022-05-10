@@ -20,7 +20,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Trail Page: Description, Photos, Ratings, Comments</li>
 <li>Google Calendar Invites</li>
 <li>Leaderboard for Top Trails in Your Area</li>
-<li>Mobile-Compatibility</li>
+<li>Mobile-compatibility</li>
 
 <h2>Tech Stack</h2>
 
@@ -28,7 +28,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | --- | --- |
 | [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
 | [Express](https://expressjs.com/) | Back End Web Application Framework |
-| [PostgreSQL](https://www.postgresql.org/) | Relational Database |
+| [PostgreSQL](https://www.postgresql.org/) | Relational database |
 | [FireBase](https://firebase.google.com/) | Google development platform |
 | [Google Maps API](https://developers.google.com/maps) | In-app map features |
 | [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
@@ -39,8 +39,8 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
 | [Babel](https://babeljs.io/) | JavaScript Compiler |
 | [Webpack](https://webpack.js.org/) | Module Bundler |
-| [K6](https://k6.io/) | Server Load Tester  |
-| [Figma](https://www.figma.com/) | Wireframe Tool |
+| [K6](https://k6.io/) | Server Load Testing  |
+| [Figma](https://www.figma.com/) | Wireframe desiging |
 
 <h2>Contributors</h2>
 
