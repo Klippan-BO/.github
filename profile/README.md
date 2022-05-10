@@ -28,6 +28,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | --- | --- |
 | [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
 | [Express](https://expressjs.com/) | Back End Web Application Framework |
+| [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
 | [PostgreSQL](https://www.postgresql.org/) | Relational database |
 | [FireBase](https://firebase.google.com/) | Google development platform |
 | [Google Maps API](https://developers.google.com/maps) | In-app map features |
@@ -36,7 +37,6 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [Next.js](https://nextjs.org/) | Web Development Framework |
 | [Material UI](https://mui.com/) | Front-End UI Library |
 | [Styled Components](https://styled-components.com/) | Front-End Styling Library |
-| [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
 | [Babel](https://babeljs.io/) | JavaScript Compiler |
 | [Webpack](https://webpack.js.org/) | Module Bundler |
 | [K6](https://k6.io/) | Server Load Testing  |
