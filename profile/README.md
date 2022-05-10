@@ -14,12 +14,12 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 
 <h2>What are the main features of this application?</h2>
 <li>Google Sign-In</li>
-<li>Google Maps Trail Finder</li>
-<li>User Profiles</li>
-<li>Search Functionality: Trails and Users</li>
-<li>Trail Page: Description, Photos, Ratings, Comments</li>
-<li>Google Calendar Invites</li>
-<li>Leaderboard for Top Trails in Your Area</li>
+<li>Google Maps trail finder</li>
+<li>User profiles</li>
+<li>Search Functionality: trails and users</li>
+<li>Trail Page: description, photos, ratings, comments</li>
+<li>Google Calendar invites</li>
+<li>Leaderboard for top trails in your area</li>
 <li>Mobile-compatibility</li>
 
 <h2>What technologies were used to create this application?</h2>
