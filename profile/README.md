@@ -5,14 +5,14 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 
 Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive readme for our API!
 
-<h2>Who was this app built for?</h2>
+<h2>Who was this application built for?</h2>
 <li>Experienced hikers</li>
 <li>Beginners</li>
 <li>Parents</li>
 <li>Elderly</li>
 <li>Hike/event planners</li>
 
-<h2>Features</h2>
+<h2>What are the main features of this application?</h2>
 <li>Google Sign-In</li>
 <li>Google Maps Trail Finder</li>
 <li>User Profiles</li>
@@ -22,7 +22,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Leaderboard for Top Trails in Your Area</li>
 <li>Mobile-compatibility</li>
 
-<h2>Tech Stack</h2>
+<h2>What technologies were used to create this application?</h2>
 
 | Technology | Use |
 | --- | --- |
