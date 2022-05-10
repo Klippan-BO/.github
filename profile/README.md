@@ -25,7 +25,6 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>AWS (EC2, RDS)</li>
 <li>Babel</li>
 <li>Webpack</li>
-<li>Jest</li>
 <li>K6</li>
 <li>Loader.io</li>
 <li>Figma</li>
