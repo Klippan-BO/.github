@@ -1,7 +1,11 @@
 <h1>Introduction</h1>
 Trail Companions is a full stack web and mobile-friendly application created over 8 days. This application utilizes Google Maps API, as well as Google Calendars API. Users can search for trails of any difficulty throughout the continent and find information including descriptions, ratings, and comments for each trail provided by the local community. Users may create their own profile pages, bookmark trails, add trail photos, leave comments, and plan events with their friends and family.
+<br>
+<br>
 
-<h2>Audience</h2>
+Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive readme for our API!
+
+<h2>Who was this app built for?</h2>
 <li>Experienced hikers</li>
 <li>Beginners</li>
 <li>Parents</li>
@@ -10,9 +14,8 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 
 <h2>Features</h2>
 
-
 <h2>Technologies</h2>
-<li>Node.js</li>
+<li>Node</li>
 <li>Express</li>
 <li>FireBase</li>
 <li>Google Maps API</li>
@@ -29,7 +32,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Loader.io</li>
 <li>Figma</li>
 
-<h2>Team Members</h2>
+<h2>Contributors</h2>
 <li>Jerremy Stroman</li>
 <li>Justin Tang</li>
 <li>Kyle Nissley</li>
