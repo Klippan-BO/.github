@@ -22,37 +22,40 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Leaderboard for Top Trails in Your Area</li>
 <li>Mobile-Compatibility</li>
 
-<h2>Technologies</h2>
-<li>Node</li>
-<li>Express</li>
-<li>PostgreSQL</li>
-<li>FireBase</li>
-<li>Google Maps API</li>
-<li>Google Calendars API</li>
-<li>React</li>
-<li>Next.js</li>
-<li>Material UI</li>
-<li>Styled Components</li>
-<li>AWS (EC2, RDS)</li>
-<li>Babel</li>
-<li>Webpack</li>
-<li>K6</li>
-<li>Figma</li>
+<h2>Tech Stack</h2>
+
+| Technology | Use |
+| --- | --- |
+| [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
+| [Express](https://expressjs.com/) | Back End Web Application Framework |
+| [PostgreSQL](https://www.postgresql.org/) | Relational Database |
+| [FireBase](https://firebase.google.com/) | Google development platform |
+| [Google Maps API](https://developers.google.com/maps) | In-app map features |
+| [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
+| [React](https://reactjs.org/) | Front-End UI Library |
+| [Next.js](https://nextjs.org/) | Web Development Framework |
+| [Material UI](https://mui.com/) | Front-End UI Library |
+| [Styled Components](https://styled-components.com/) | Front-End Styling Library |
+| [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
+| [Babel](https://babeljs.io/) | JavaScript Compiler |
+| [Webpack](https://webpack.js.org/) | Module Bundler |
+| [K6](https://k6.io/) | Server Load Tester  |
+| [Figma](https://www.figma.com/) | Wireframe Tool |
 
 <h2>Contributors</h2>
 
-**Jerremy Stroman**: Architech Owner, API, server, database
+[**Jerremy Stroman**](https://github.com/jerremy777): Architech Owner, API, server, database
 
-**Justin Tang**: Project Manager, Trail description and ratings, readme
+[**Justin Tang**](https://github.com/justintang510): Project Manager, Trail description and ratings, readme
 
-**Kyle Nissley**: UI Owner, wireframes, global styling, login and authentication, Google Calendar API implementation
+[**Kyle Nissley**](https://github.com/knissley): UI Owner, wireframes, global styling, login and authentication, Google Calendar API implementation
 
-**Lawrence Malloy**: Initial setup and dependencies, nav bar, Google Maps API implementation, Geocoding
+[**Lawrence Malloy**](https://github.com/lcmalloy): Initial setup and dependencies, nav bar, Google Maps API implementation, Geocoding
 
-**Matt Pak**: Maps page, Google Maps API implementation, Geocoding
+[**Matt Pak**](https://github.com/pakman3590): Maps page, Google Maps API implementation, Geocoding
 
-**Pascal Bui**: Google Calendar API implementation, Photos carousel
+[**Pascal Bui**](https://github.com/RphPandan): Google Calendar API implementation, Photos carousel
 
-**Patrick Lee**: Trail comments, Trail Leaderboard
+[**Patrick Lee**](https://github.com/ptriklee): Trail comments, Trail Leaderboard
 
-**Shanshan Liu**: User profiles, visited trails, friends, friend requests and invites
+[**Shanshan Liu**](https://github.com/SHANSHANCODER): User profiles, visited trails, friends, friend requests and invites
