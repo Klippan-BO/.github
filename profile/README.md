@@ -17,10 +17,10 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <h2>Technologies</h2>
 <li>Node</li>
 <li>Express</li>
+<li>PostgreSQL</li>
 <li>FireBase</li>
 <li>Google Maps API</li>
 <li>Google Calendars API</li>
-<li>PostgreSQL</li>
 <li>React</li>
 <li>Next.js</li>
 <li>Material UI</li>
@@ -29,7 +29,6 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Babel</li>
 <li>Webpack</li>
 <li>K6</li>
-<li>Loader.io</li>
 <li>Figma</li>
 
 <h2>Contributors</h2>
