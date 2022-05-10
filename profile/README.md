@@ -24,7 +24,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 
 <h2>What technologies were used to create this application?</h2>
 
-| Technology | Use |
+| Technology | Purpose |
 | --- | --- |
 | [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
 | [Express](https://expressjs.com/) | Back End Web Application Framework |
