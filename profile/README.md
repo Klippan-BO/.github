@@ -13,6 +13,14 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Hike/event planners</li>
 
 <h2>Features</h2>
+<li>Google Sign-In</li>
+<li>Google Maps Trail Finder</li>
+<li>User Profiles</li>
+<li>Search Functionality: Trails and Users</li>
+<li>Trail Page: Description, Photos, Ratings, Comments</li>
+<li>Google Calendar Invites</li>
+<li>Leaderboard for Top Trails in Your Area</li>
+<li>Mobile-Compatibility</li>
 
 <h2>Technologies</h2>
 <li>Node</li>
@@ -32,11 +40,19 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Figma</li>
 
 <h2>Contributors</h2>
-<li>Jerremy Stroman</li>
-<li>Justin Tang</li>
-<li>Kyle Nissley</li>
-<li>Lawrence Malloy</li>
-<li>Matt Pak</li>
-<li>Pascal Bui</li>
-<li>Patrick Lee</li>
-<li>Shanshan Liu</li>
+
+**Jerremy Stroman**: Architech Owner, API, server, database
+
+**Justin Tang**: Project Manager, Trail description and ratings, readme
+
+**Kyle Nissley**: UI Owner, wireframes, global styling, login and authentication, Google Calendar API implementation
+
+**Lawrence Malloy**: Initial setup and dependencies, nav bar, Google Maps API implementation, Geocoding
+
+**Matt Pak**: Maps page, Google Maps API implementation, Geocoding
+
+**Pascal Bui**: Google Calendar API implementation, Photos carousel
+
+**Patrick Lee**: Trail comments, Trail Leaderboard
+
+**Shanshan Liu**: User profiles, visited trails, friends, friend requests and invites
