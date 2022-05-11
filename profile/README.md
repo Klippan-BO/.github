@@ -12,7 +12,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Elderly</li>
 <li>Hike/event planners</li>
 
-<h2>What are the main features of this application?</h2>
+<h2>Features</h2>
 <li>Google Sign-In</li>
 <li>Google Maps trail finder</li>
 <li>User profiles</li>
