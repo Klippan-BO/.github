@@ -38,8 +38,8 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [Google Maps API](https://developers.google.com/maps) | In-app map features |
 | [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
 | [FireBase](https://firebase.google.com/) | Google development platform |
-| [React](https://reactjs.org/) | Front-End UI Library |
 | [Next.js](https://nextjs.org/) | Web Development Framework |
+| [React](https://reactjs.org/) | Front-End UI Library |
 | [Material UI](https://mui.com/) | Front-End UI Library |
 | [Styled Components](https://styled-components.com/) | Front-End Styling Library |
 | [Babel](https://babeljs.io/) | JavaScript Compiler |
