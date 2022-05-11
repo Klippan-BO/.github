@@ -24,6 +24,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 
 <h2>Main Components</h2>
 
+![Components](https://user-images.githubusercontent.com/97769405/167779498-65723c76-0c09-4ddd-a8e4-4ba70fdd630c.png)
 
 
 <h2>Tech Stack</h2>
