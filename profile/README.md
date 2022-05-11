@@ -35,9 +35,9 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [Express](https://expressjs.com/) | Back End Web Application Framework |
 | [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
 | [PostgreSQL](https://www.postgresql.org/) | Relational database |
-| [FireBase](https://firebase.google.com/) | Google development platform |
 | [Google Maps API](https://developers.google.com/maps) | In-app map features |
 | [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
+| [FireBase](https://firebase.google.com/) | Google development platform |
 | [React](https://reactjs.org/) | Front-End UI Library |
 | [Next.js](https://nextjs.org/) | Web Development Framework |
 | [Material UI](https://mui.com/) | Front-End UI Library |
