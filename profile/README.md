@@ -22,7 +22,7 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 <li>Leaderboard for top trails in your area</li>
 <li>Mobile-compatibility</li>
 
-<h2>What technologies were used to create this application?</h2>
+<h2>Tech Stack</h2>
 
 | Technology | Purpose |
 | --- | --- |
