@@ -44,7 +44,6 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [Styled Components](https://styled-components.com/) | Front-End Styling Library |
 | [Babel](https://babeljs.io/) | JavaScript Compiler |
 | [Webpack](https://webpack.js.org/) | Module Bundler |
-| [K6](https://k6.io/) | Server Load Testing  |
 | [ESLint](https://eslint.org/) | Code Quality [(Airbnb Style Guide)](https://github.com/airbnb/javascript) |
 | [Figma](https://www.figma.com/) | Wireframe desiging |
 
