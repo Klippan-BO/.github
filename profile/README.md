@@ -27,9 +27,9 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 ![Components](https://user-images.githubusercontent.com/97769405/168129826-b5d3b89d-1c41-4863-894d-707108a8ba71.png)
 
 
-<h2>Tech Stack</h2>
+<h2>Technologies</h2>
 
-| Technology | Purpose |
+| Name | Purpose |
 | --- | --- |
 | [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
 | [Express](https://expressjs.com/) | Back End Web Application Framework |
