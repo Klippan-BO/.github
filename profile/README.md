@@ -41,9 +41,6 @@ Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive rea
 | [Next.js](https://nextjs.org/) | Web Development Framework |
 | [React](https://reactjs.org/) | Front-End UI Library |
 | [Material UI](https://mui.com/) | Front-End UI Library |
-| [Styled Components](https://styled-components.com/) | Front-End Styling Library |
-| [Babel](https://babeljs.io/) | JavaScript Compiler |
-| [Webpack](https://webpack.js.org/) | Module Bundler |
 | [ESLint](https://eslint.org/) | Code Quality [(Airbnb Style Guide)](https://github.com/airbnb/javascript) |
 | [Figma](https://www.figma.com/) | Wireframe desiging |
 
