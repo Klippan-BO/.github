@@ -97,8 +97,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Friends</li>
 <br>
 
-![user](https://user-images.githubusercontent.com/97769405/168446030-1bb81599-5964-412a-a732-87a2e3e32c86.png)
-
+![user](https://user-images.githubusercontent.com/97769405/168446092-50186d17-8d73-475c-bdca-12644fc520fe.png)
 
 
 <h2>Contributors</h2>
