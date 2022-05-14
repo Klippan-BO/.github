@@ -53,6 +53,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 
 <h3>Map</h3>
 <li>Google Maps Integration</li>
+<li>Pop-up modals for each trail</li>
 <br>
 
 ![map](https://user-images.githubusercontent.com/97769405/168444660-d497dc8b-705c-42bc-8502-29a7a61aa31d.gif)
