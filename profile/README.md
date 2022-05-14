@@ -90,7 +90,8 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Leave comments on a trail</li>
 <br>
 
-![comments](https://user-images.githubusercontent.com/97769405/168444924-c6bde3a4-180c-488f-a5e8-a38bb98b0946.gif)
+![comments](https://user-images.githubusercontent.com/97769405/168446130-fb30dddc-f82a-4403-8b64-02f883e01b9a.gif)
+
 
 <h3>User Profile</h3>
 <li>Recently visted trails</li>
