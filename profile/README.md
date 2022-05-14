@@ -66,7 +66,9 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 ![leaderboard](https://user-images.githubusercontent.com/97769405/168444592-148f4e5f-4147-4fea-bc1b-cd69e40bb0ce.gif)
 
 <h3>Trail Photos</h3>
-<li>Carousel and gallery with upload and auto-play</li>
+<li>Carousel and gallery</li>
+<li>Auto-play feature</li>
+<li>Photo upload with Cloudinary</li>
 <br>
 
 
@@ -89,6 +91,14 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <br>
 
 ![comments](https://user-images.githubusercontent.com/97769405/168444924-c6bde3a4-180c-488f-a5e8-a38bb98b0946.gif)
+
+<h3>User Profile</h3>
+<li>Recently visted trails</li>
+<li>Friends</li>
+<br>
+
+![user](https://user-images.githubusercontent.com/97769405/168446030-1bb81599-5964-412a-a732-87a2e3e32c86.png)
+
 
 
 <h2>Contributors</h2>
