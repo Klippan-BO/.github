@@ -12,7 +12,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Seniors</li>
 <li>Event planners</li>
 
-<h2>Features</h2>
+<h2>App Features</h2>
 <li>Google Sign-In</li>
 <li>Google Maps trail finder</li>
 <li>User profiles</li>
@@ -22,7 +22,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Leaderboard for top trails in your area</li>
 <li>Mobile-compatibility</li>
 
-<h2>Technologies</h2>
+<h2>Technologies Used</h2>
 
 | Name | Purpose |
 | --- | --- |
@@ -39,7 +39,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 | [ESLint](https://eslint.org/) | Code Quality [(Airbnb Style Guide)](https://github.com/airbnb/javascript) |
 | [Figma](https://www.figma.com/) | Wireframe desiging |
 
-<h2>Architecture</h2>
+<h2>App Architecture</h2>
 
 ![Components](https://user-images.githubusercontent.com/97769405/168129826-b5d3b89d-1c41-4863-894d-707108a8ba71.png)
 
