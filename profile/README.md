@@ -22,6 +22,23 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <li>Leaderboard for top trails in your area</li>
 <li>Mobile-compatibility</li>
 
+<h2>Technologies</h2>
+
+| Name | Purpose |
+| --- | --- |
+| [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
+| [Express](https://expressjs.com/) | Back End Web Application Framework |
+| [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
+| [PostgreSQL](https://www.postgresql.org/) | Relational database |
+| [Google Maps API](https://developers.google.com/maps) | In-app map features |
+| [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
+| [FireBase](https://firebase.google.com/) | Google development platform |
+| [Next.js](https://nextjs.org/) | Web Development Framework |
+| [React](https://reactjs.org/) | Front-End UI Library |
+| [Material UI](https://mui.com/) | Front-End UI Library |
+| [ESLint](https://eslint.org/) | Code Quality [(Airbnb Style Guide)](https://github.com/airbnb/javascript) |
+| [Figma](https://www.figma.com/) | Wireframe desiging |
+
 <h2>Architecture</h2>
 
 ![Components](https://user-images.githubusercontent.com/97769405/168129826-b5d3b89d-1c41-4863-894d-707108a8ba71.png)
@@ -72,22 +89,6 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 
 ![comments](https://user-images.githubusercontent.com/97769405/168444924-c6bde3a4-180c-488f-a5e8-a38bb98b0946.gif)
 
-<h2>Technologies</h2>
-
-| Name | Purpose |
-| --- | --- |
-| [Node](https://nodejs.org/en/) | JavaScript Runtime Environment |
-| [Express](https://expressjs.com/) | Back End Web Application Framework |
-| [AWS](https://aws.amazon.com/) | Cloud-Computing Platform (EC2) |
-| [PostgreSQL](https://www.postgresql.org/) | Relational database |
-| [Google Maps API](https://developers.google.com/maps) | In-app map features |
-| [Google Calendars API](https://developers.google.com/calendar/api) | In-app calendar/events features |
-| [FireBase](https://firebase.google.com/) | Google development platform |
-| [Next.js](https://nextjs.org/) | Web Development Framework |
-| [React](https://reactjs.org/) | Front-End UI Library |
-| [Material UI](https://mui.com/) | Front-End UI Library |
-| [ESLint](https://eslint.org/) | Code Quality [(Airbnb Style Guide)](https://github.com/airbnb/javascript) |
-| [Figma](https://www.figma.com/) | Wireframe desiging |
 
 <h2>Contributors</h2>
 
