@@ -3,7 +3,7 @@ Trail Companions is a full stack web and mobile-friendly application created ove
 <br>
 <br>
 
-Click [here](https://github.com/Klippan-BO/TC-API) to view the comprehensive readme for our API!
+[Click here to view the comprehensive readme for our API!](https://github.com/Klippan-BO/TC-API)
 
 <h2>Who was this application built for?</h2>
 <li>Experienced hikers</li>
