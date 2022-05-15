@@ -126,7 +126,7 @@ Trail Companions is a full stack web application consisting of a client, server,
 
 [**Matt Pak**](https://github.com/pakman3590): map, search function
 
-[**Pascal Bui**](https://github.com/RphPandan): trails, events, file uploads, photos carousel
+[**Pascal Bui**](https://github.com/RphPandan): trails, events, photos
 
 [**Patrick Lee**](https://github.com/ptriklee): trails, comments, leaderboard
 
