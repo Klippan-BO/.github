@@ -39,10 +39,6 @@ Trail Companions is a full stack web application consisting of a client, server,
 | [Figma](https://www.figma.com/) | Wireframe desiging |
 | [Cloudinary](https://cloudinary.com/) | Image hosting for user uploads |
 
-<h2>App Architecture</h2>
-
-![Untitled Diagram drawio (11)](https://user-images.githubusercontent.com/97769405/169568270-3000f5d1-6466-4318-886c-ba6836da7a50.png)
-
 <h2>Components</h2>
 
 <h3>Login</h3>
