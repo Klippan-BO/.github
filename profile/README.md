@@ -5,12 +5,6 @@ Trail Companions is a full stack web application consisting of a client, server,
 
 [Click here to view the comprehensive readme for our API!](https://github.com/Klippan-BO/TC-API)
 
-<h2>Who was this application built for?</h2>
-<li>Experienced hikers</li>
-<li>Beginners</li>
-<li>Parents</li>
-<li>Event planners</li>
-
 <h2>App Features</h2>
 <li>Firebase Authentication</li>
 <li>Google Maps trail finder</li>
